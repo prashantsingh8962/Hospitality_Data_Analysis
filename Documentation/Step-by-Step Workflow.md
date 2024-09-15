@@ -141,8 +141,8 @@
 
 
  ## Some Useful Terminologies in Hospitality Industry:
-1	Revenue	To get the total revenue_realized\n
-2	Total Bookings	To get the total number of bookings happened\n
+1	Revenue	To get the total revenue_realized /n
+2	Total Bookings	To get the total number of bookings happened \n
 3	Total Capacity	To get the total capacity of rooms present in hotels\n
 4	Total Succesful Bookings	To get the total succesful bookings happened for all hotels
 5	Occupancy %	"Occupancy means total successful bookings happened to the 
