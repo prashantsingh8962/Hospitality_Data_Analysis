@@ -29,5 +29,12 @@
       - For taking decisions, he need data movements Like trends chart etc.
       - Level 1, level 2 means going deep down to find the cause of problem.(ask why? to your dashboard to go deep down)
 
-5. Start with data transformation using power query and data modeling: 
+5. Start with data transformation using power query and data modeling:
+      - we input the whole folder "input" in the power query editor. We opened all five datasets by copy the input file and click on binary in front of desired table name.
+      - In dim_rooms, we remove the first header line to make it proper.
+      -  we also remove weekday column in dim_dates bcoz in this industry, weekends are fridays and Saturdays, we make it later. last, close and apply.
+      -  In power query, we data modelling connect dim tables to fact table using 1-to-many relation.
+  
+          <img src="https://github.com/prashantsingh8962/Hospitality_Data_Analysis/tree/main/Resources" class="center">
+ 
         
