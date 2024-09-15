@@ -141,30 +141,29 @@
 
 
  ## Some Useful Terminologies in Hospitality Industry:
-1	Revenue	To get the total revenue_realized /n
-2	Total Bookings	To get the total number of bookings happened \n
-3	Total Capacity	To get the total capacity of rooms present in hotels\n
-4	Total Succesful Bookings	To get the total succesful bookings happened for all hotels
-5	Occupancy %	"Occupancy means total successful bookings happened to the 
-total rooms available(capacity)"
-6	Average Rating	Get the average ratings given by the customers
-7	No of days	"To get the total number of days present in the data. In our case, we have data from May to July. So 92 days."
-8	Total cancelled bookings	To get the"Cancelled" bookings out of all Total bookings happened
-9	Cancellation %	"calculating the cancellaton percentage."
-10	Total Checked Out	To get the successful 'Checked out' bookings out of all Total bookings happened
-11	Total no show bookings	"To get the""No Show"" bookings out of all Total bookings happened (""No show"" means those customers who neither cancelled nor attend to their booked rooms)"
-12	No Show rate %	calculating the no show percentage.
-13	Booking % by Platform	"To show the percentage contribution of each booking platform for bookings in hotels. We have booking platforms like makeyourtrip, logtrip, tripster etc)"
-14	Booking % by Room class	"To show the percentage contribution of each room class over total rooms booked. We have room classes like Standard, Elite, Premium, Presidential."
-15	ADR 	"Calculate the ADR(Average Daily rate) It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period"
-16	Realisation %	"calculate  the realisation percentage. It is nothing but the succesful ""checked out"" percentage over all bookings happened."
-17	RevPAR	"Calculate the RevPAR(Revenue Per Available Room) RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands."
-18	DBRN	"calculate DBRN(Daily Booked Room Nights) This metrics tells on average how many rooms are booked for a day considering a time period"
-19	DSRN 	"calculate DSRN(Daily Sellable Room Nights) This metrics tells on average how many rooms are ready to sell for a day considering a time period"
-20	DURN	"calculate DURN(Daily Utilized Room Nights) This metric tells on average how many rooms are succesfully utilized by customers for a day considering a time period"
-21	Revenue WoW change %	"To get the revenue change percentage week over week.Here, revcw  for current week , revpw for previous week"
-22	Occupancy WoW change %	"To get the occupancy change percentage week over week. Here, revcw  for current week , revpw for previous week"
-23	ADR WoW change %	"To get the ADR(Average Daily rate) change percentage week over week. Here, revcw  for current week , revpw for previous week"
-24	Revpar WoW change %	"To get the RevPar(Revenue Per Available Room) change percentage week over week. Here, revcw  for current week , revpw for previous week"
-25	Realisation WoW change %	"To get the Realisation change percentage week over week. Here, revcw  for current week , revpw for previous week"
-26	DSRN WoW change %	"To get the DSRN(Daily Sellable Room Nights) change percentage week over week. Here, revcw  for current week , revpw for previous week"
+1	Revenue	To get the total revenue_realized <br>
+2	Total Bookings	To get the total number of bookings happened <br>
+3	Total Capacity	To get the total capacity of rooms present in hotels<br>
+4	Total Succesful Bookings	To get the total succesful bookings happened for all hotels<br>
+5	Occupancy %	"Occupancy means total successful bookings happened to the total rooms available(capacity)"<br>
+6	Average Rating	Get the average ratings given by the customers<br>
+7	No of days	"To get the total number of days present in the data. In our case, we have data from May to July. So 92 days."<br>
+8	Total cancelled bookings	To get the"Cancelled" bookings out of all Total bookings happened<br>
+9	Cancellation %	"calculating the cancellaton percentage."<br>
+10	Total Checked Out	To get the successful 'Checked out' bookings out of all Total bookings happened<br>
+11	Total no show bookings	"To get the""No Show"" bookings out of all Total bookings happened (""No show"" means those customers who neither cancelled nor attend to their booked rooms)"<br>
+12	No Show rate %	calculating the no show percentage.<br>
+13	Booking % by Platform	"To show the percentage contribution of each booking platform for bookings in hotels. We have booking platforms like makeyourtrip, logtrip, tripster etc)"<br>
+14	Booking % by Room class	"To show the percentage contribution of each room class over total rooms booked. We have room classes like Standard, Elite, Premium, Presidential."<br>
+15	ADR 	"Calculate the ADR(Average Daily rate) It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period"<br>
+16	Realisation %	"calculate  the realisation percentage. It is nothing but the succesful ""checked out"" percentage over all bookings happened."<br>
+17	RevPAR	"Calculate the RevPAR(Revenue Per Available Room) RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands."<br>
+18	DBRN	"calculate DBRN(Daily Booked Room Nights) This metrics tells on average how many rooms are booked for a day considering a time period"<br>
+19	DSRN 	"calculate DSRN(Daily Sellable Room Nights) This metrics tells on average how many rooms are ready to sell for a day considering a time period"<br>
+20	DURN	"calculate DURN(Daily Utilized Room Nights) This metric tells on average how many rooms are succesfully utilized by customers for a day considering a time period"<br>
+21	Revenue WoW change %	"To get the revenue change percentage week over week.Here, revcw  for current week , revpw for previous week"<br>
+22	Occupancy WoW change %	"To get the occupancy change percentage week over week. Here, revcw  for current week , revpw for previous week"<br>
+23	ADR WoW change %	"To get the ADR(Average Daily rate) change percentage week over week. Here, revcw  for current week , revpw for previous week"<br>
+24	Revpar WoW change %	"To get the RevPar(Revenue Per Available Room) change percentage week over week. Here, revcw  for current week , revpw for previous week"<br>
+25	Realisation WoW change %	"To get the Realisation change percentage week over week. Here, revcw  for current week , revpw for previous week"<br>
+26	DSRN WoW change %	"To get the DSRN(Daily Sellable Room Nights) change percentage week over week. Here, revcw  for current week , revpw for previous week"<br>
