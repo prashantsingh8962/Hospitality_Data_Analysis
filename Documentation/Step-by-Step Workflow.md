@@ -11,6 +11,23 @@
     4. fact_aggregated_bookings(property_id, check_in_date, room_category, successful_bookings, capacity)
     5. fact_bookings(booking_id, property_id, booking_date, check_in_date, check_out_date, no_guests, room_category, booking_platform, ratings_given, booking_status, revenue_generated, revenue_realized)
 
-3. We start with discussing our mockup with the requirements of the Product Manager Mr.Hero.
+3. We start with discussing our mockup with the requirements of the Product Manager in the meeting.
 
    <img src="https://github.com/prashantsingh8962/Hospitality_Data_Analysis/blob/main/Resources/mock%20up%20dashboard_atliq%20grands.png" class="center">
+
+4. Product Manager Recommendations:
+      - RevPar(Revenue Per Available Room) = total revenue divided by total rooms available to sell. or ADR * Occupancy.
+      - ADR(Average Daily Rate)
+      - Occupancy%= total rooms occupied/ total rooms available to sell.
+      - SRN(sellable rooms nights): Eg- if a hotel have all 100 hundred rooms to sell in June (30 days). its SRN is 3000(100*30).
+      - DSRN(Daily sellable room nights): SRN/total no days = 3000/30 = 100.
+      - realization: URN/BRN.
+      - URN(utilized room nights):
+      - BRN(Booked room nights): URN + no shows + cancellations                 (no shows means they booked but arrived.)
+      - In this industry, weekends are Fridays  and Saturdays.
+      - whether a hotel is business or leisure.
+      - For taking decisions, he need data movements Like trends chart etc.
+      - Level 1, level 2 means going deep down to find the cause of problem.(ask why? to your dashboard to go deep down)
+
+5. Start with data transformation using power query and data modeling: 
+        
