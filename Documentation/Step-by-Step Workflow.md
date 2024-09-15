@@ -11,3 +11,6 @@
     4. fact_aggregated_bookings(property_id, check_in_date, room_category, successful_bookings, capacity)
     5. fact_bookings(booking_id, property_id, booking_date, check_in_date, check_out_date, no_guests, room_category, booking_platform, ratings_given, booking_status, revenue_generated, revenue_realized)
 
+3. We start with discussing our mockup with the requirements of the Product Manager Mr.Hero.
+
+   <img src="https://github.com/prashantsingh8962/Hospitality_Data_Analysis/blob/main/Resources/mock%20up%20dashboard_atliq%20grands.png" class="center">
