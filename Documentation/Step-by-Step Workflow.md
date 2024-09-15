@@ -35,6 +35,6 @@
       -  we also remove weekday column in dim_dates bcoz in this industry, weekends are fridays and Saturdays, we make it later. last, close and apply.
       -  In power query, we data modelling connect dim tables to fact table using 1-to-many relation.
   
-          <img src="https://github.com/prashantsingh8962/Hospitality_Data_Analysis/tree/main/Resources" class="center">
+          <img src="https://github.com/prashantsingh8962/Hospitality_Data_Analysis/blob/main/Resources/Data%20Modelling.png" class="center">
  
         
