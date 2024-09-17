@@ -1,0 +1,1 @@
+Dashboard link: [Hospitality Analysis](https://app.powerbi.com/view?r=eyJrIjoiNmU0MjNiMjItMTkwNi00ZDM1LWFkYTUtZWU4M2YxYzUyYWI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
