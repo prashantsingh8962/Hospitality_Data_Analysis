@@ -57,7 +57,7 @@ The analysis was conducted using historical data provided by AtliQ Grands. The d
 
 2. **Occupancy Trends**: 
    - Cities like Delhi and Hyderabad show higher occupancy rates compared to others.
-   - Weekday vs. Weekend performance: Weekdays tend to have higher occupancy and realization rates.(Fridays & Saturdays)
+   - Weekday vs. Weekend performance: Weekdays tend to have higher occupancy and realization rates.( weekend are Fridays & Saturdays)
 
 3. **Property Performance**: 
    Detailed breakdown of each property’s RevPAR, ADR, occupancy, and cancellations.
