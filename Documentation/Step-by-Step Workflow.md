@@ -167,3 +167,6 @@
 24	Revpar WoW change %	"To get the RevPar(Revenue Per Available Room) change percentage week over week. Here, revcw  for current week , revpw for previous week"<br>
 25	Realisation WoW change %	"To get the Realisation change percentage week over week. Here, revcw  for current week , revpw for previous week"<br>
 26	DSRN WoW change %	"To get the DSRN(Daily Sellable Room Nights) change percentage week over week. Here, revcw  for current week , revpw for previous week"<br>
+
+
+7. we started building a dashboard and exploring insights..
